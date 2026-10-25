@@ -1,0 +1,13 @@
+{
+ "model": "OpenVLA-OFT 作り(重みは乱数)",
+ "device": "Mac mini M4 Pro GPU(MPS)",
+ "params_b": 7.71,
+ "latency_ms_median": 1805.8,
+ "latency_ms_min": 1800.8,
+ "actions_shape": [
+  8,
+  7
+ ],
+ "actions_per_sec": 4.4,
+ "runs": 15
+}

@@ -1,0 +1,10 @@
+[
+ {"name": "oneshot1", "image": "outputs/e2e/dev3_c1o/E01_t0_scene.jpg", "plan": [7], "ask": false,
+  "candidates": ["コンロの火、つけておいてくれる？", "コンロに火をつけておいて", "火をつけておいてもらえる？"]},
+ {"name": "oneshot2", "image": "outputs/e2e/final2/E05_t0_k0.jpg", "plan": [1], "ask": false,
+  "candidates": ["寒くなってきたね、何かあったかいもの食べたいな", "寒くなってきたね、あったかいスープが飲みたいな", "冷えてきたね、器をあたためておいてくれる？"]},
+ {"name": "askback1", "image": "outputs/e2e/dev3_c1o/E01_t0_scene.jpg", "plan": null, "ask": true,
+  "candidates": ["器、しまっておいてくれる？", "器を片付けておいて", "器、どこかにしまっておいて"]},
+ {"name": "askback2", "image": "outputs/e2e/dev3_c1o/E01_t0_scene.jpg", "plan": [3], "ask": false,
+  "candidates": ["器を一番上の引き出しにしまって", "器は一番上の引き出しにお願い", "一番上の引き出しにしまってね"]}
+]
